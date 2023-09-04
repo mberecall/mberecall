@@ -1,8 +1,3 @@
-<style>
-td, th {
-   border: none!important;
-}
-</style>
 <h1 align="center">Hi 👋, I'm MB'DUSENGE Callixte</h1>
 <h3 align="center">I 'm founder of Irebe Library. I like writing tutorials and tips on Bootstrap, PHP, Javascript, JQuery, Laravel, Livewire, CodeIgniter, Technology, etc</h3>
 <p align="center">  
