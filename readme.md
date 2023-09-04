@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm MB'DUSENGE Callixte</h1>
 <h3 align="center">I 'm founder of Irebe Library. I like writing tutorials and tips on Bootstrap, PHP, Javascript, JQuery, Laravel, Livewire, CodeIgniter, Technology, etc</h3>
 <p align="center">  
-<table style="border-collapse: collapse;border: 0px;width:100%">
+<table cellpadding="0" cellspacing="0" style="border-collapse: collapse;border: 0px;width:100%">
  <tr>
   <td><h3 align="left">Connect with me:</h3>
 <p align="left">
